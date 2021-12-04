@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Кто мы?
 
-You can use the [editor on GitHub](https://github.com/QRussia/qrussia.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Мы - QRussia. Сообщество молодых людей, занимающихся популяризацией квантовых вычислений. Мы - частичка более глобального движения [QWorld](https://qworld.net/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Зачем мы это делаем?
 
-### Markdown
+Мы стоим на пороге глобальных изменений в понимании возможностей использования квантовой физики в практической реализации новой вычислительной парадигмы. Наша цель - сделать так, чтобы большее количество людей было готово подключиться к осознанию и использованию этих возможностей.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Ты с нами???
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-<!-- [Link](url) and ![Image]('/images/logo.jpg') -->
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QRussia/qrussia.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Будь в курсе последних событий из нашей жизни:
+- [Twitter](https://twitter.com/qrussia2)
+- [VK](https://vk.com/qworldrussia)
+- [FB group](https://www.facebook.com/groups/qworldrussia/)
+- [FB](https://www.facebook.com/qworldrussia/)
+- [Instagram](https://www.instagram.com/qworldrussia/)
+- [Чат в Telegram](https://t.me/+2JEZAtbId-ZjMzRi)
