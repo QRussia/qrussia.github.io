@@ -11,10 +11,10 @@
 # Ты с нами???
 
 Будь в курсе последних событий из нашей жизни:
-- [Twitter](https://twitter.com/qrussia2)
 - [VK](https://vk.com/qworldrussia)
 - [Чат в Telegram](https://t.me/+2JEZAtbId-ZjMzRi)
 - [Мы на GitHub](https://github.com/QRussia)
+<!--- [Twitter](https://twitter.com/qrussia2) -->
 <!--- [FB group](https://www.facebook.com/groups/qworldrussia/) -->
 <!--- [FB](https://www.facebook.com/qworldrussia/) -->
 <!--- [Instagram](https://www.instagram.com/qworldrussia/) -->
